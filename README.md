@@ -18,33 +18,43 @@ practices.*
 **Other Back-End projects Repositories:** 
 
 1- [Team Order Management](https://github.com/baraalsedih/Team-Order-Management)
+
 Tech Stack:  Node.js, Express, ORM, Sequelize, MySQL 
 
 2- [Free Developers Camp](https://github.com/FreeDevelopersCamp/learning-platform-api)
+
 Tech Stack: NestJS, MongoDB, WebSockets, GCP, Mongoose
 
 3- [Tile Grout Filling Robot](https://github.com/University-Experience/Tile-Grout-Filling-Robot)
+
 Tech Stack: Node.js, Express, Python, Arduino, Raspberry Pi
 
 4- [EcoTrack](https://github.com/University-Experience/EcoTrack)
+
 Tech Stack: Node.js, Express, MySQL
 
 5- [Bazarcom](https://github.com/University-Experience/Bazarcom)
+
 Tech Stack: Flask, ORM, SQLite
 
 6- [Task Management System](https://github.com/AhdTech-Backend-Intern/Task-Management-System)
+
 Tech Stack: Spring Boot, PostgreSQL, JWT, Spring JPA, Spring Security
 
 7- [Book Store](https://github.com/baraalsedih/book_store)
+
 Tech Stack: Django, SQLite
 
 8- [Book Store](https://github.com/GSG-Practical-Training/Bookstore_Flask)
+
 Tech Stack: Flask, SQLite
 
 9- [Natours](https://github.com/Udemy-Experience/Natours)
+
 Tech Stack: Node.js, Express, MongoDB, Mongoose, JWT
 
 10- [The Wild Oasis](https://github.com/Udemy-Experience/the-wild-oasis-website)
+
 Tech Stack: Next.js, TypeScript, OAuth
 
 11- [NestJS -- Coursera](https://github.com/Coursera-Learned-Courses/NestJs_with_MongoDB)
